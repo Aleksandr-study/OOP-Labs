@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\cstdio(33,1): error C2061: синтаксическая ошибка: идентификатор "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\cstdio(33,1): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\cstdio(33,1): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\cstdio(91,1): error C2059: синтаксическая ошибка: }
+C:\Users\Dell\source\repos\OOPlab1_C\OOPlab1_C\main.c(190,1): fatal error C1004: непредвиденное обнаружение конца файла
