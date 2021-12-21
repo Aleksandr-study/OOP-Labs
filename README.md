@@ -1,1 +1,2 @@
-# OOp-Labs
+# OOP-Labs
+Лабки Карпа
